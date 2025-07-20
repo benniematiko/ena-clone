@@ -1,0 +1,18 @@
+.search {
+  width: 100%;
+  background: rgb(243, 240, 240);
+ 
+  
+}
+
+.searchcontainer {
+  width: 70%;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   height: 60px;
+   justify-content: space-between;
+
+}

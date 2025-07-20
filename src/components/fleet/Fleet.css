@@ -1,0 +1,14 @@
+.fleet {
+  width: 100%;
+  background: gray;
+
+}
+
+.fleetcontainer {
+  width: 86%;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+}
